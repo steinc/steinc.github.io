@@ -3,3 +3,9 @@
 
 - title: About
   url: about
+
+- title: CV
+  url: pages/cv
+
+- title: Projects
+  url: pages/projects

@@ -17,7 +17,7 @@ title: Christopher J. Stein
 #email: mail@cstein.eu
 description: Theoretical Chemistry, Quantum Chemistry, Strong Correlation, Spectroscopy, Catalysis
 cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
+logo: assets/images/ICON_no_text.png
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://steinc.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 paginate: 5

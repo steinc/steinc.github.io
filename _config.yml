@@ -26,7 +26,7 @@ github_username:  steinc
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: starving-artist-jekyll-theme
 plugins: []
 
 # Exclude from processing.

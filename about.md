@@ -1,5 +1,4 @@
 # About Me
-TESTTESTTEST
 
 My name is Gregor Simm and I am a Ph.D. student in theoretical chemistry in the group of [Markus Reiher](http://www.reiher.ethz.ch/) at ETH Zurich.
 

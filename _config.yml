@@ -23,8 +23,8 @@ github_username:  steinc
 
 #Additional Pages
 about: about
-CV: pages/cv
-Projects: pages/projects
+CV: cv
+Projects: projects
 
 
 # Build settings

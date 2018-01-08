@@ -18,6 +18,9 @@ title: Christopher J. Stein
 description: Theoretical Chemistry, Quantum Chemistry, Strong Correlation, Spectroscopy, Catalysis
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://steinc.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+paginate: 5
+
+
 #twitter_username: jekyllrb
 github_username:  steinc
 

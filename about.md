@@ -1,18 +1,11 @@
----
-layout: page
-title: About
-permalink: /about/
----
+# About Me
+TESTTESTTEST
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Gregor Simm and I am a Ph.D. student in theoretical chemistry in the group of [Markus Reiher](http://www.reiher.ethz.ch/) at ETH Zurich.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+By applying Bayesian statistics and machine learning (especially Gaussian processes) I am looking for efficient quantum chemical methods with error estimation capabilities.
+In addition, I am interested in the development of tools for the automatic exploration of complex chemical reaction networks.
+Check out my [publications]({{ site.url }}/publications) for more information.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I completed by BSc. and MSc. at ETH Zurich in natural sciences (Focus: Chemistry and Physics).
+I carried my master's project in the group of [Alán Aspuru-Guzik](http://aspuru.chem.harvard.edu/) at Harvard University, where I applied Gaussian processes to accelerate the discovery of efficient organic photovoltaics.

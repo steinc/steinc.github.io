@@ -8,6 +8,7 @@ You can find a complete list of my publications on [Google Scholar](https://scho
 
 #### 2018
 - [Structure and dynamics of the radical cation of ethane arising from the Jahn– Teller and pseudo-Jahn–Teller effects](http://pubs.rsc.org/-/content/articlelanding/2018/cp/c7cp06907c/unauth#!divAbstract)
+
   U. Jacovella, C. J. Stein, M. Grütter, L. Freitag, C. Lauzin, M. Reiher, F. Merkt, *Phys. Chem. Chem. Phys.* **2018**, *20*,1072-1081.
 
 #### 2017

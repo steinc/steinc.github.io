@@ -27,7 +27,8 @@ github_username:  steinc
 # Build settings
 markdown: kramdown
 remote_theme: hanuman
-plugins: []
+plugins:
+   - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

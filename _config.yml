@@ -22,9 +22,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  steinc
 
 #Additional Pages
-about: about
-CV: cv
-Projects: projects
+#about: about
+#CV: cv
+#Projects: projects
 
 
 # Build settings

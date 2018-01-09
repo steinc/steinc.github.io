@@ -45,5 +45,10 @@ P. Botschwina, A. Bargholz, P. Sebald, C. Stein, B. Schröder, R. Oswald *J. Mo
 
 
 #### 2014
+- [Accurate calculation of the dissociation energy of the highly anharmonic system ClHCl<sup>−</sup>](http://pubs.acs.org/doi/abs/10.1021/jp509711g)
+C. Stein, R. Oswald, P. Botschwina, K. A. Peterson *J. Phys. Chem. A* **2014**, *119*, 5158-5164.
+- [Strong theoretical support for the assignment of B11244 to *l*-C<sub>3</sub>H<sup>+</sup>](http://iopscience.iop.org/article/10.1088/0004-637X/787/1/72/meta)
+P. Botschwina, C. Stein, P. Sebald, B. Schröder, R. Oswald *Astrophys. J.* **2014**, *787*, 72.
+
 #### 2013
 

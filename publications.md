@@ -30,8 +30,19 @@ C. J. Stein, M. Reiher *Mol. Phys.* **2017**, *115*, 2110-2119.
 C. J. Stein, V. von Burg, M. Reiher *J. Chem. Theory Comput.* **2016**, *12*, 3764-3773.
 - [Highly accurate spectroscopic parameters from ab initio calculations: the interstellar molecules *l*-C<sub>3</sub>H<sup>+</sup> and C<sub>4</sub>](http://www.springer.com/de/book/9783658148294)
 C. J. Stein, *Springer Spektrum*, Wiesbaden, ISBN: 978-3-658-14830-0, **2016**.
+- [Automated selection of active orbital spaces](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00156)
+C. J. Stein, M. Reiher *J. Chem. Theory Comput.* **2016**, *12*, 1760-1771.
+- [New approaches for ab initio calculations of molecules with strong electron correlation](http://www.ingentaconnect.com/content/scs/chimia/2016/00000070/00000004/art00004)
+S. Knecht, E. D. Hedegård, S. Keller, A Kovyrshin, Y. Ma, A. Muolo, C. J. Stein, M. Reiher *Chimia* **2016**, *70*, 244-251.
 
 #### 2015
+- [High-level theoretical spectroscopic parameters for three ions of astrochemical interest](http://www.tandfonline.com/doi/abs/10.1080/00268976.2015.1017019)
+C. Stein, O. Weser, B. Schröder, P. Botschwina *Mol. Phys.* **2015**, *113*, 2169-2178.
+- [Challenging high-level ab initio rovibrational spectroscopy: The nitrous oxide molecule](https://www.degruyter.com/view/j/zpch.2015.229.issue-10-12/zpch-2015-0622/zpch-2015-0622.xml)
+B. Schröder, P. Sebald, C. Stein, O. Weser, P. Botschwina *Z. Phys. Chem.* **2015**, *229*, 1663-1690.
+- [Theoretical rovibrational spectroscopy of NO<sub>2</sub><sup>+</sup>](http://www.sciencedirect.com/science/article/pii/S0022285214002318)
+P. Botschwina, A. Bargholz, P. Sebald, C. Stein, B. Schröder, R. Oswald *J. Mol. Spectrosc.* **2015**, *311*, 12-18.
+
 
 #### 2014
 #### 2013

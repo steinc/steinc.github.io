@@ -51,4 +51,9 @@ C. Stein, R. Oswald, P. Botschwina, K. A. Peterson *J. Phys. Chem. A* **2014**, 
 P. Botschwina, C. Stein, P. Sebald, B. Schröder, R. Oswald *Astrophys. J.* **2014**, *787*, 72.
 
 #### 2013
-
+- [Rovibrational states of N<sub>3</sub><sup>-</sup> and CO<sub>2</sub> up to high *J*: A theoretical study beyond fc-CCSD(T)](http://pubs.acs.org/doi/abs/10.1021/jp4081806)
+P. Sebald, C. Stein, R. Oswald, P. Botschwina *J. Chem. Phys. A* **2013**, *117*, 13806-13814.
+- [Accurate bond dissociation energies (*D*<sub>0</sub>) for FHF<sup>−</sup> isotopologues](http://www.tandfonline.com/doi/abs/10.1080/00268976.2013.809165)
+C. Stein, R. Oswald, P. Sebald, P. Botschwina, H. Stoll, K. Peterson *Mol. Phys.* **2013**, *111*, 2647-2652.
+- [FHF<sup>−</sup> isotopologues: Highly anharmonic hydrogen-bonded systems with strong Coriolis interaction](http://pubs.acs.org/doi/abs/10.1021/jp3123677)
+P. Sebald, A. Bargholz, R. Oswald, C. Stein, P. Botschwina *J. Phys. Chem. A* **2013**, *117*, 9695-9703.

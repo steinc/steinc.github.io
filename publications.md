@@ -26,7 +26,10 @@ C. J. Stein, M. Reiher *Chimia* **2017**, *71*, 170-716.
 C. J. Stein, M. Reiher *Mol. Phys.* **2017**, *115*, 2110-2119. 
 
 #### 2016
-
+- [The delicate balance of static and dynamic electron correlation](http://pubs.acs.org/doi/10.1021/acs.jctc.6b00528)
+C. J. Stein, V. von Burg, M. Reiher *J. Chem. Theory Comput.* **2016**, *12*, 3764-3773.
+- [Highly accurate spectroscopic parameters from ab initio calculations: the interstellar molecules *l*-C<sub>3</sub>H<sup>+</sup> and C<sub>4</sub>](http://www.springer.com/de/book/9783658148294)
+C. J. Stein, *Springer Spektrum*, Wiesbaden, ISBN: 978-3-658-14830-0, **2016**.
 
 #### 2015
 

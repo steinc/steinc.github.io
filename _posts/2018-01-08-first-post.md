@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample
+title: Website is available
 date: 2018-01-08 13:43:00
-tags: test
+tags: website
 author: Author
 ---
-<p>This is just a test</p>
+<p>Starting today, my research website is available. It will contain occasional short reviews on fascinating publications, information on my own research, software updates and FAQs.</p>

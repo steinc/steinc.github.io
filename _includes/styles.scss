@@ -260,7 +260,7 @@ body {
     white-space: nowrap;
     text-overflow: ellipsis;
   }
-
+//change sizes etc for contents here
   .post-content {
     width: 100%;
     font-family: $font-serif;
@@ -298,6 +298,7 @@ body {
       padding: 5px;
       text-align:left;
     }
+//this is general content
     p {
       font-weight: 400;
       font-style: normal;
@@ -359,6 +360,7 @@ body {
       padding: 0 0 30px;
       margin: 0;
     }
+//these are lists
     li {
       padding: 0;
       font-weight: 400;

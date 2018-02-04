@@ -21,6 +21,9 @@ Coming soon!
 
 #### Education
 
++ **Ph.D. Theoretical Chemistry**, ETH Zurich, 2015-2017.
+  Advisor: Prof. Dr. Markus Reiher
+  Thesis: *Multi-Configurational Approaches for Electronic Structure and Molecular Vibrations*
 
 #### Talks
 

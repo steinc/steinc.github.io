@@ -19,15 +19,15 @@ permalink: /cv/
 
 #### Education
 
-+ **Ph.D. Theoretical Chemistry**, ETH Zurich, 2015-2017.
++ **Ph.D. Theoretical Chemistry**, ETH Zurich, 2015-2017.  
   Advisor: Prof. Dr. Markus Reiher  
   Thesis: *Multi-Configurational Approaches for Electronic Structure and Molecular Vibrations*
 
-+ **M.Sc. Chemistry** (with distinction), Georg-August-Universität Göttingen, 2012-2014.
-  Thesis: *Highly Accurate Calculation of the Spectroscopic Parameters of the Interstellar Molecules l-C<sub>3<\sub>H<sup>+<\sup> and C<sub>4<\sub>*  
++ **M.Sc. Chemistry** (with distinction), Georg-August-Universität Göttingen, 2012-2014.  
+  Thesis: *Highly Accurate Calculation of the Spectroscopic Parameters of the Interstellar Molecules l-C<sub>3</sub>H<sup>+</sup> and C<sub>4</sub>*  
   Advisor: Prof. Dr. Peter Botschwina
 
-+ **B.Sc. Chemistry** (with distinction), Georg-August-Universität Göttingen, 2009-2012.
++ **B.Sc. Chemistry** (with distinction), Georg-August-Universität Göttingen, 2009-2012.  
   Thesis: *Synthesis and Analysis of New CO-Releasing Transition Metal Complexes*  
   Advisors: Prof. Dr Peter Ford (University of California, Santa Barbara), Prof. Dr. Oliver Wenger
 

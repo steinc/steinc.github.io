@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper on iodine catalyzed Hofmann-Loeffler reaction accepted in ACS Catalysis
+title: Paper on iodine catalyzed Hofmann-Loeffler reaction accepted for publication in ACS Catalysis
 date: 2018-03-21 13:15:00
 tags: website
 author: Author

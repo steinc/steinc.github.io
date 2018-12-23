@@ -1,14 +1,11 @@
-- title: Home
-  url: 
+main:
+- title: "About"
+  url: /about/
+- title: "Curriculum Vitae"
+  url: /cv/
+- title: "Projects"
+  url: /projects/
+- title: "Publications"
+  url: /publications/
 
-- title: About
-  url: about
 
-- title: CV 
-  url: cv
-  
-- title: Publications
-  url: publications
-
-- title: Projects
-  url: projects

@@ -7,6 +7,10 @@ permalink: /publications/
 You can find a complete list of my publications on [Google Scholar](https://scholar.google.ch/citations?user=ZjHvZRUAAAAJ&hl=en).
 
 #### 2018
+
+- [Engineering Molecular Iodine Catalysis for Alkyl–Nitrogen Bond Formation](h ttps://pubs.acs.org/doi/abs/10.1021/acscatal.8b00286)
+T. Duhamel, C. J. Stein, C. Martinez, M. Reiher, K. Muniz *ACS Catal.* **2018**, *8*, 3918–3925. 
+
 - [Structure and dynamics of the radical cation of ethane arising from the Jahn– Teller and pseudo-Jahn–Teller effects](http://pubs.rsc.org/-/content/articlelanding/2018/cp/c7cp06907c/unauth#!divAbstract) 
 U. Jacovella, C. J. Stein, M. Grütter, L. Freitag, C. Lauzin, M. Reiher, F. Merkt, *Phys. Chem. Chem. Phys.* **2018**, *20*, 1072-1081.
 

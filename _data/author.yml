@@ -1,7 +1,11 @@
 author:
   username: steinc
   name: Christopher J. Stein
-#  location: Vrindavan
+  location: Berkeley, CA
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mail@cstein.eu"
 #  url_full: https://hanumanchalisa.net
 #  url: hanumanchalisa.net
 #  bio: Jai Shri Ram!

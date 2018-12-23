@@ -2,6 +2,7 @@
 layout: single
 title: About Me
 permalink: /about/
+classes: wide
 ---
 
 I am a postdoctoral researcher in the group of [Prof. Martin Head-Gordon](https://mhggroupberkeley.com) at the University of California at Berkeley.

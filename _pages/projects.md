@@ -2,6 +2,8 @@
 layout: single
 title: Projects
 permalink: /projects/
+toc: true
+toc_sticky: true
 ---
 
 ### Catalysis

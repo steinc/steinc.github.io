@@ -4,6 +4,7 @@ title: Paper on iodine catalyzed Hofmann-Loeffler reaction accepted for publicat
 date: 2018-03-21 13:15:00
 tags: website
 author: Author
+author_profile: true
 excerpt: Our paper on an iodine catalyzed intramolecular C-H amination of alkyl groups via amidyl radicals is accepted for publication with ACS Catalysis.
 header:
   overlay_image: /assets/images/post_headers/muniz_acs_catalysis.png

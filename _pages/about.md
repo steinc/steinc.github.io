@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a postdoctoral researcher in the group of [Prof. Martin Head-Gordon](https://mhggroupberkeley.com) at the University of California at Berkeley.
 In my main project, I develop grand-canonical electronic structure methods for electrocatalysis.
-Side projects cover topics as diverse as *strong correlation*, *machine learning*, *magnetic coupling in inorganic complexes* and *kinetics of gas-phase reactions*.
+Side projects cover a range of topics such as *strong correlation*, *machine learning*, *magnetic coupling in inorganic complexes* and *kinetics of gas-phase reactions*.
 I will present details on all of these projects once they are ready for publication.
 
 Before I came to Berkeley I did my PhD in theoretical chemistry in the group of [Prof. Markus Reiher](http://www.reiher.ethz.ch) at ETH Zürich.

@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Christopher J. Stein"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "I am an amazing person."
-  location         : # "Somewhere"
+  bio              : "Quantum Chemist."
+  location         : "Berkeley, CA"
   email            :
   links:
     - label: "Email"

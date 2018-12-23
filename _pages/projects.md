@@ -1,6 +1,15 @@
 ---
+layout: single
 title: Projects
 permalink: /projects/
 ---
 
-Coming soon!
+### Catalysis
+details follow
+
+### Strong Correlation
+details follow
+
+### Molecular Spectroscopy
+details follow
+

@@ -3,7 +3,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-#### Education
+### Education
 + **PostDoc in Theoretical Chemistry**, UC Berkeley / Lawrence Berkeley National Lab, 2018-now.
   Head of Group: Prof. Dr. Martin Head-Gordon
   Project: Grand-Canonical Electronic Structure Methods for Electrocatalysis
@@ -17,7 +17,7 @@ permalink: /cv/
   Advisors: Prof. Dr Peter Ford (University of California, Santa Barbara), Prof. Dr. Oliver Wenger
   Thesis: *Synthesis and Analysis of New CO-Releasing Transition Metal Complexes*  
 
-#### Awards and Fellowships
+### Awards and Fellowships
 
 + SNF Early.PostDoc Mobility Fellowship for my postdoctoral stay in the group of Prof. Martin Head-Gordon, UC Berkeley (2018-2020)
 + Poster Prize at the Symposium of Theoretical Chemistry in Bochum, Germany (2016)
@@ -30,14 +30,14 @@ permalink: /cv/
 + Scholarship from the State of Lower Saxony *Niedersachsenstipendium* (2011 and 2013)
 + German National Merit Foundation Scholarship *Studienstiftung des deutschen Volkes* (2009-2014)
 
-#### Software
+### Software
 + *autoCAS*, graphical user interface for the automated active space selection (main developer)
 + *openMOLCAS*, electronic structure program package (contributor)
 + *QCMaquis*, quantum-chemical density matrix renormalization group program (contributor)
 + *QCMaquis-V*, density matrix renormalization group program for molecular vibrations (contributor)
 
 
-#### Talks
+### Talks
 + *Modern Quantum-Chemical Concepts and Methods for Complex Systems*, Seminar of Applicants for a Junior Professorship in Theoretical Chemistry, University of Bremen (09.07.2018)
 + *Automated Multi-Configurational Calculations*, ICQC Satellite Meeting on Strong Correlation, Strassbourg (25.06.2018)
 + *Modern Quantum-Chemical Concepts and Methods for Complex Systems*, Seminar of Applicants for a Junior Professorship in Theoretical Supramolecular Chemistry, University of Würzburg(09.04.2018)
@@ -48,7 +48,7 @@ permalink: /cv/
 + *Automated Selection of Active Orbital Spaces*, Molcas Developer Meeting, Jerusalem (09.02.2017)
 + *Quantitative Reaction Energies from an Automated Multi-Configurational Approach*, Fall Meeting of the Swiss Chemical Society, Zurich (15.09.2016)
 
-#### Conference Contributions (Posters)
+### Conference Contributions (Posters)
 
 + *Automated Multi-Configurational Calculations*, 11th Triennial Congress of the World Association of Theoretical and Computational Chemists WATOC, Munich (August 2017)
 + *Automated Selection of Active Orbital Spaces*, ACS National Meeting, San Francisco (April 2017)

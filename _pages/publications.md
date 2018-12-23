@@ -1,6 +1,10 @@
 ---
+layout: single
 title: Publications
 permalink: /publications/
+toc: true
+toc_label: "Year"
+toc_sticky: true
 ---
 
 

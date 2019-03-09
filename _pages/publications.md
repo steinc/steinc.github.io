@@ -10,9 +10,13 @@ toc_sticky: true
 
 You can find a complete list of my publications on [Google Scholar](https://scholar.google.ch/citations?user=ZjHvZRUAAAAJ&hl=en).
 
-### 2018
 
-- [Engineering Molecular Iodine Catalysis for Alkyl–Nitrogen Bond Formation](h ttps://pubs.acs.org/doi/abs/10.1021/acscatal.8b00286)
+### 2019
+- [Optimization of highly excited matrix product states with an application to vibrational spectroscopy](https://aip.scitation.org/doi/full/10.1063/1.5068747)
+A. Baiardi, C. J. Stein, V. Barone, M. Reiher *J. Chem. Phys.* **2019**, *150*, 094113.
+
+### 2018
+- [Engineering Molecular Iodine Catalysis for Alkyl–Nitrogen Bond Formation](https://pubs.acs.org/doi/abs/10.1021/acscatal.8b00286)
 T. Duhamel, C. J. Stein, C. Martinez, M. Reiher, K. Muniz *ACS Catal.* **2018**, *8*, 3918–3925. 
 
 - [Structure and dynamics of the radical cation of ethane arising from the Jahn– Teller and pseudo-Jahn–Teller effects](http://pubs.rsc.org/-/content/articlelanding/2018/cp/c7cp06907c/unauth#!divAbstract) 

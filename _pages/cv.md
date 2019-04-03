@@ -35,8 +35,8 @@ toc_sticky: true
 
 ### Software
 + [*autoCAS*](https://scine.ethz.ch/download/autocas), graphical user interface for the automated active space selection (main developer)
-+ *openMOLCAS*, electronic structure program package (contributor)
-+ *QCMaquis*, quantum-chemical density matrix renormalization group program (contributor)
++ [*openMOLCAS*](https://gitlab.com/Molcas/OpenMolcas), electronic structure program package (contributor)
++ [*QCMaquis*](https://scine.ethz.ch/download/qcmaquis), quantum-chemical density matrix renormalization group program (contributor)
 + *QCMaquis-V*, density matrix renormalization group program for molecular vibrations (contributor)
 
 

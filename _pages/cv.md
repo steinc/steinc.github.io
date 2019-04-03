@@ -34,13 +34,14 @@ toc_sticky: true
 + German National Merit Foundation Scholarship *Studienstiftung des deutschen Volkes* (2009-2014)
 
 ### Software
-+ *autoCAS*, graphical user interface for the automated active space selection (main developer)
++ [*autoCAS*](https://scine.ethz.ch/download/autocas), graphical user interface for the automated active space selection (main developer)
 + *openMOLCAS*, electronic structure program package (contributor)
 + *QCMaquis*, quantum-chemical density matrix renormalization group program (contributor)
 + *QCMaquis-V*, density matrix renormalization group program for molecular vibrations (contributor)
 
 
 ### Talks
++ *Modern Quantum-Chemical Methods for Complex Chemistry*, Group Seminar Alan Aspuru-Guzik Matter Lab, University of Toronto (14.03.2019)
 + *Modern Quantum-Chemical Concepts and Methods for Complex Systems*, Seminar of Applicants for a Junior Professorship in Theoretical Chemistry, University of Bremen (09.07.2018)
 + *Automated Multi-Configurational Calculations*, ICQC Satellite Meeting on Strong Correlation, Strassbourg (25.06.2018)
 + *Modern Quantum-Chemical Concepts and Methods for Complex Systems*, Seminar of Applicants for a Junior Professorship in Theoretical Supramolecular Chemistry, University of Würzburg(09.04.2018)

@@ -41,6 +41,7 @@ toc_sticky: true
 
 
 ### Talks
++ *Quantum-Chemical Methods for Catalysis*, Joint Theory Seminar John Herbert / Alexander Sokolov Groups, Ohio State University (11.04.2019)
 + *Modern Quantum-Chemical Methods for Complex Chemistry*, Group Seminar Alan Aspuru-Guzik Matter Lab, University of Toronto (14.03.2019)
 + *Modern Quantum-Chemical Concepts and Methods for Complex Systems*, Seminar of Applicants for a Junior Professorship in Theoretical Chemistry, University of Bremen (09.07.2018)
 + *Automated Multi-Configurational Calculations*, ICQC Satellite Meeting on Strong Correlation, Strassbourg (25.06.2018)

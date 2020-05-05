@@ -10,8 +10,23 @@ toc_sticky: true
 
 You can find a complete list of my publications on [Google Scholar](https://scholar.google.ch/citations?user=ZjHvZRUAAAAJ&hl=en).
 
+###2020
+- [Semiclassical dispersion corrections eficiently improve multi-configurational theory with short-range density-functional dynamical correlation](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.0c02130)
+C. J. Stein, M. Reiher *J. Chem. Phys. A* **2020**, *124*, 2834.
 
 ### 2019
+- [The Poisson--Boltzmann model for implicit solvation of electrolyte solutions: Quantum chemical implementation and assessment via Sechenov coefficients](https://aip.scitation.org/doi/abs/10.1063/1.5131020)
+C. J. Stein, J. M. Herbert, M. Head-Gordon *J. Chem. Phys.* **2019**, *151*, 224111.
+
+- [Orbital Entanglement Analysis of Exchange-Coupled Systems](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b02417)
+C. J. Stein, D. A. Pantazis, V. Krewald *J. Phys. Chem. Lett.* **2019**, *10*, 6762.
+
+- [OpenMolcas: from source code to insight](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00532)
+I. F. Galvan, M. Vacher, A. Alavi, C. Angeli, J. Autschbach, ... C. J. Stein, et al. *J. Chem. Theory Comput.* **2019**, *15*, 5925.
+
+- [autoCAS: a program for fully automated multi-configurational calculations](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.25869)
+C. J. Stein, M. Reiher *J. Comput. Chem.* **2019**, *40*, 2216.
+
 - [Optimization of highly excited matrix product states with an application to vibrational spectroscopy](https://aip.scitation.org/doi/full/10.1063/1.5068747)
 A. Baiardi, C. J. Stein, V. Barone, M. Reiher *J. Chem. Phys.* **2019**, *150*, 094113.
 

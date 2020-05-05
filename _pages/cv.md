@@ -22,6 +22,9 @@ toc_sticky: true
 
 ### Awards and Fellowships
 
++ ACS Comp Division / Wiley Computers in Chemistry Outstanding Postdoc Award (2020)
++ ETH medal for outstanding doctoral thesis, Zurich (2019)
++ Berkeley Postdoc Association Professional Development Award, Berkeley (2019)
 + SNF Early.PostDoc Mobility Fellowship for my postdoctoral stay in the group of Prof. Martin Head-Gordon, UC Berkeley (2018-2020)
 + Poster Prize at the Symposium of Theoretical Chemistry in Bochum, Germany (2016)
 + SCS-Metrohm Award for the best oral contribution in Theoretical and Computational Chemistry at the SCS Fall Meeting, Zurich (2016)
@@ -41,7 +44,11 @@ toc_sticky: true
 
 
 ### Talks
-+ *Quantum-Chemical Methods for Catalysis*, Joint Theory Seminar John Herbert / Alexander Sokolov Groups, Ohio State University (11.04.2019)
++ *Theoretical Modelling of Heterogeneous Catalysis on Realistic Surfaces*, Early Career Award Semi-Final, Lawrence Berkeley National Laboratory, Berkeley, CA (13.3.2020)
++ *Orbital Entanglement Analysis of Exchange-Coupled Transition Metal Complexes*, ACS National Meeting, San Diego, CA (27.8.2019)
++ *Automated Multi-Configurational Calculations and Their Analysis*, ACS National Meeting, San Diego, CA (28.8.2019)
++ *Understanding Exchange Coupling in Transition Metal Complexes with Orbital Entanglement*, Quantum Bioinorganic Conference QBIC-V, Marseille, France (25.7.2019)
++ *Modern Quantum-Chemical Concepts and Methods for Complex Chemistry*, Joint Theory Seminar John Herbert / Alexander Sokolov Groups, Ohio State University (11.04.2019)
 + *Modern Quantum-Chemical Methods for Complex Chemistry*, Group Seminar Alan Aspuru-Guzik Matter Lab, University of Toronto (14.03.2019)
 + *Modern Quantum-Chemical Concepts and Methods for Complex Systems*, Seminar of Applicants for a Junior Professorship in Theoretical Chemistry, University of Bremen (09.07.2018)
 + *Automated Multi-Configurational Calculations*, ICQC Satellite Meeting on Strong Correlation, Strassbourg (25.06.2018)
@@ -55,6 +62,8 @@ toc_sticky: true
 
 ### Conference Contributions (Posters)
 
++ *Toward Electrocatalysis on Metal Clusters Coupled to an Electron Reservoir*, ACS National Meeting, San Diego, CA (August 2019)
++ *Toward Electrocatalysis on Metal Clusters Coupled to an Electron Reservoir*, 9th MQM, Heidelberg, Germany (July 2019)
 + *Automated Multi-Configurational Calculations*, 11th Triennial Congress of the World Association of Theoretical and Computational Chemists WATOC, Munich (August 2017)
 + *Automated Selection of Active Orbital Spaces*, ACS National Meeting, San Francisco (April 2017)
 + *Quantitative Reaction Energies from an Automated Multi-Configurational Approach*, Symposium for Theoretical Chemistry, Bochum (September 2016)

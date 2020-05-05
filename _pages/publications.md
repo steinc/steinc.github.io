@@ -10,7 +10,7 @@ toc_sticky: true
 
 You can find a complete list of my publications on [Google Scholar](https://scholar.google.ch/citations?user=ZjHvZRUAAAAJ&hl=en).
 
-###2020
+### 2020
 - [Semiclassical dispersion corrections eficiently improve multi-configurational theory with short-range density-functional dynamical correlation](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.0c02130)
 C. J. Stein, M. Reiher *J. Chem. Phys. A* **2020**, *124*, 2834.
 

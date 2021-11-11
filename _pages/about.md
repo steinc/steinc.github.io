@@ -4,11 +4,11 @@ title: About Me
 permalink: /about/
 classes: wide
 ---
+I am a group leader at the Faculty of Physics at the [University-Duisburg-Essen](https://www.uni-due.de), Germany running a group with focus on ["Computational Science of Interfaces"](https://www.uni-due.de/physik/stein/). For five years we are supported by a return fellowship from the state of North-Rhine Westphalia. We are further associated with the [RESOLV](https://www.solvation.de) cluster of excellence and the graduate school on ["Confinement-Controlled Chemistry"](http://www.confinement-controlled-chemistry.de).
 
-I am a postdoctoral researcher in the group of [Prof. Martin Head-Gordon](https://mhggroupberkeley.com) at the University of California at Berkeley.
-In my main project, I develop grand-canonical electronic structure methods for electrocatalysis.
+Before, I was a postdoctoral researcher in the group of [Prof. Martin Head-Gordon](https://mhggroupberkeley.com) at the University of California at Berkeley.
+In my main project, I developed grand-canonical electronic structure methods for electrocatalysis.
 Side projects cover a range of topics such as *strong correlation*, *machine learning*, *magnetic coupling in inorganic complexes* and *kinetics of gas-phase reactions*.
-I will present details on all of these projects once they are ready for publication.
 
 Before I came to Berkeley I did my PhD in theoretical chemistry in the group of [Prof. Markus Reiher](http://www.reiher.ethz.ch) at ETH Zürich.
 There, I developed automated methods for the crucial active orbital space selection in multi-configurational calculations.

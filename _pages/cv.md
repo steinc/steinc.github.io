@@ -6,10 +6,15 @@ toc: true
 toc_sticky: true
 ---
 
-### Education
-+ **PostDoc in Theoretical Chemistry**, UC Berkeley / Lawrence Berkeley National Lab, 2018-now.
+### Academic positions
++ **Group Leader in Theoretical Physics**, University Duisburg-Essen (Germany), 2021 - now.
+  Independent Research Group *Computational Science of Interfaces*
++ **PostDoc in Theoretical Chemistry**, UC Berkeley / Lawrence Berkeley National Lab, 2018-2021.
   Head of Group: Prof. Dr. Martin Head-Gordon
-  Project: Grand-Canonical Electronic Structure Methods for Electrocatalysis
+  Project: Grand-Canonical Electronic-Structure Methods for Electrocatalysis
+
+
+### Education
 + **Ph.D. Theoretical Chemistry**, ETH Zurich, 2015-2017.  
   Advisor: Prof. Dr. Markus Reiher  
   Thesis: *Multi-Configurational Approaches for Electronic Structure and Molecular Vibrations*
@@ -22,6 +27,7 @@ toc_sticky: true
 
 ### Awards and Fellowships
 
++ NRW Return fellowship to fund independent research group for 5 years, NRW, Germany (2021)
 + ACS Comp Division / Wiley Computers in Chemistry Outstanding Postdoc Award (2020)
 + ETH medal for outstanding doctoral thesis, Zurich (2019)
 + Berkeley Postdoc Association Professional Development Award, Berkeley (2019)
@@ -37,13 +43,23 @@ toc_sticky: true
 + German National Merit Foundation Scholarship *Studienstiftung des deutschen Volkes* (2009-2014)
 
 ### Software
-+ [*autoCAS*](https://scine.ethz.ch/download/autocas), graphical user interface for the automated active space selection (main developer)
-+ [*openMOLCAS*](https://gitlab.com/Molcas/OpenMolcas), electronic structure program package (contributor)
-+ [*QCMaquis*](https://scine.ethz.ch/download/qcmaquis), quantum-chemical density matrix renormalization group program (contributor)
-+ *QCMaquis-V*, density matrix renormalization group program for molecular vibrations (contributor)
++ [*Q-Chem*](https://www.q-chem.com), multi-purpose electronic-structure program package (contributor)
++ [*openMOLCAS*](https://gitlab.com/Molcas/OpenMolcas), electronic-structure program package with focus on multi-configurational methods (contributor)
++ [*autoCAS*](https://scine.ethz.ch/download/autocas), graphical user interface for the automated active space selection (main developer of initial release)
++ [*QCMaquis*](https://scine.ethz.ch/download/qcmaquis), quantum-chemical density matrix renormalization group program (contributor to earlier versions)
 
 
 ### Talks
+
+
++ *Implicit solvation, grand-canonical cluster models and structural diversity in energy materials*, Theory Seminar, Technical University Munich, Germany. (online, 17.05.2020)
++ *Accuracy, Pragmatism and Interpretability in Quantum-Chemical Calculations*, Seminar of the graduate school on confinement-controlled chemistry, Ruhr-Universität Bochum, Germany. (online, 05.05.2021)
++ *Unraveling complexity in energy materials: from accurate electronic-structure calculations to structure exploration*, Applicants Seminar for tenure-track position in theoretical chemistry, Aarhus University, Denmark. (online, 20.11.2020)
++ *Implicit electrolyte solvation models for quantum-chemical simulation*, RESOLV Cluster of Excellence Autumn Workshop, Bochum University, Germany. (online, 10.11.2020)
++ *A novel route toward ab initio battery modelling*, Selection seminar for the NRW return fellowship, Düsseldorf, Germany. (online, 20.08.2020)
++ *Heterogeneous (electro-)catalysis with grand-canonical cluster models*, Applicants seminar for tenure-track position in theoretical chemistry, University of Wuppertal, Germany. (online, 19.08.2020)
++ *Versatile cluster models for energy materials and heterogeneous catalysts*, Applicants seminar for tenure-track position in energy materials modelling, RWTH Aachen, Germany. (online, 07.08.2020)
++ *Heterogeneous electrocatalysis with grand-canonical cluster models*, Applicants seminar for tenure-track position in theoretical chemistry, TU Braunschweig, Germany. (online, 09.06.2020)
 + *Theoretical Modelling of Heterogeneous Catalysis on Realistic Surfaces*, Early Career Award Semi-Final, Lawrence Berkeley National Laboratory, Berkeley, CA (13.3.2020)
 + *Orbital Entanglement Analysis of Exchange-Coupled Transition Metal Complexes*, ACS National Meeting, San Diego, CA (27.8.2019)
 + *Automated Multi-Configurational Calculations and Their Analysis*, ACS National Meeting, San Diego, CA (28.8.2019)
@@ -62,6 +78,7 @@ toc_sticky: true
 
 ### Conference Contributions (Posters)
 
++ *Toward the investigation of electrocatalysis with grand-canonical cluster models and implicit solvation*, Symposium for Theoretical Chemistry, Würzburg, Germany (online, September 2021).
 + *Toward Electrocatalysis on Metal Clusters Coupled to an Electron Reservoir*, ACS National Meeting, San Diego, CA (August 2019)
 + *Toward Electrocatalysis on Metal Clusters Coupled to an Electron Reservoir*, 9th MQM, Heidelberg, Germany (July 2019)
 + *Automated Multi-Configurational Calculations*, 11th Triennial Congress of the World Association of Theoretical and Computational Chemists WATOC, Munich (August 2017)

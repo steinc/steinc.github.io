@@ -10,7 +10,25 @@ toc_sticky: true
 
 You can find a complete list of my publications on [Google Scholar](https://scholar.google.ch/citations?user=ZjHvZRUAAAAJ&hl=en).
 
+### 2021
+- [NewtonNet: A Newtonian message passing network for deep learning of interatomic potentials and forces](https://arxiv.org/abs/2108.02913)
+M. Haghighatlari, J. Li, O. Zhang, ... C. J. Stein, *et al.* *Chem. Sci.* (under revision) **2021**.
+
+- [Origin of the different reactivity of the high-valent coinage-metal complexes [RCu<sup>III</sup>Me<sub>3</sub>]<sup>-</sup> and [RAg<sup>III</sup>Me<sub>3</sub>]<sup>-</sup> (R = allyl)](https://chemrxiv.org/engage/chemrxiv/article-details/6128e967ac321954a96a404d)
+T. Auth, C. J. Stein, R. O’Hare, K. Koszinowski *Chem. Eur. J.* (accepted) **2021**.
+
+- [Software for the frontiers of quantum chemistry: An overview of developments in the Q-Chem 5 package](https://aip.scitation.org/doi/abs/10.1063/5.0055522)
+E. Epifanovsky, A. t. B. Gilbert, X. Feng, ... C. J. Stein, *et al.* *J. Chem. Phys.* **2021**, *155*, 084801.
+
+- [Stripping away ion hydration shells in electrical double layer formation: water networks matter](https://chemrxiv.org/engage/chemrxiv/article-details/60c754cf0f50db385a397dcf)
+S. R. Alfarano, S. Pezzotti, C. J. Stein, *et al.* *Proc. Natl. Acad. Sci. U.S.A.* (accepted) **2022**.
+
+
 ### 2020
+- [Modern Quantum Chemistry with [Open] Molcas](https://aip.scitation.org/doi/10.1063/5.0004835)
+F. Aquilante, J. Autschbach, A. Baiardi, S. Battaglia, V. A. Borin, ... C. J. Stein, *et al.* *J. Chem. Phys.* **2020**, *152*, 214117.  
+
+
 - [Semiclassical dispersion corrections eficiently improve multi-configurational theory with short-range density-functional dynamical correlation](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.0c02130)
 C. J. Stein, M. Reiher *J. Chem. Phys. A* **2020**, *124*, 2834.
 

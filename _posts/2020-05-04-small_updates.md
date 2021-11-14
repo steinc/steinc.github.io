@@ -7,7 +7,7 @@ author: Author
 author_profile: true
 excerpt: I finally found some time to add the most recent publications, talks, posters and even some awards!
 header:
-  overlay_image: /assets/images/post_headers/eth_medal.jpg
+  overlay_image: /assets/images/post_headers/eth_medal.png
   overlay_filter: 0.5
 classes: wide
 ---
